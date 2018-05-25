@@ -1,0 +1,393 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>В качестве аргумента "2" передан аргумент, не относящийся к типу числа с плавающей запятой, хотя при вызове "printf" требуется аргумент этого типа; фактический тип: "int".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>34</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>В качестве аргумента "2" передан аргумент, не относящийся к типу числа с плавающей запятой, хотя при вызове "printf" требуется аргумент этого типа; фактический тип: "int".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>42</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>В качестве аргумента "2" передан аргумент, не относящийся к типу числа с плавающей запятой, хотя при вызове "scanf_s" требуется аргумент этого типа; фактический тип: "int".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>54</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>В качестве аргумента "2" передан аргумент, не относящийся к типу числа с плавающей запятой, хотя при вызове "printf" требуется аргумент этого типа; фактический тип: "int".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>63</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6272</DEFECTCODE>
+    <DESCRIPTION>В качестве аргумента "2" передан аргумент, не относящийся к типу числа с плавающей запятой, хотя при вызове "printf" требуется аргумент этого типа; фактический тип: "int".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>25</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>29</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>32</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция scanf_c появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>35</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>44</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>49</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>52</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция scanf_c появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>55</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>60</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>64</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>69</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>71</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>28278</DEFECTCODE>
+    <DESCRIPTION>Функция system появляется без прототипов в области.  Возможен только ограниченный анализ. Включите соответствующий заголовок или добавьте прототип. Данное предупреждение также возникает, если в определении функции пропущены типы параметров или возвращаемых значений.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+      <FILENAME>task6.c</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>6001</DEFECTCODE>
+    <DESCRIPTION>Использование неинициализированной памяти "eps".</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>3</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>7</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>8</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>9</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>10</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>11</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Инициализация "eps" не выполнена</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>12</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>13</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Войти в этот цикл (предполагается "!isBreak")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>15</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>16</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Предполагается, что параметр ("_getch()") разрешается в case 50: </MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>28</LINE>
+        <COLUMN>2</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>29</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>32</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"eps" является аргументом ввода-вывода для "summ2" (объявлено в c:\users\russi\source\repos\практикум 3\практикум 3\header.h: 3)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\users\russi\source\repos\практикум 3\практикум 3\</FILEPATH>
+        <FILENAME>task6.c</FILENAME>
+        <LINE>33</LINE>
+        <COLUMN>7</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"eps" используется, но, возможно, не инициализировано</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

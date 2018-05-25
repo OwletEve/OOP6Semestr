@@ -1,0 +1,11 @@
+﻿  task1.c
+  task2.c
+  task3.c
+  task4.c
+  task5.c
+  task6.c
+c:\users\lonelyowlet\desktop\6 семестр\практикум 3\практикум 3\task6.c(15): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 3\практикум 3\task6.c(18): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 3\практикум 3\task6.c(22): warning C4476: "printf": неизвестный символ поля типа "\n" в описателе формата
+  Создание кода...
+  Практикум 3.vcxproj -> C:\Users\LonelyOwlet\Desktop\6 семестр\Практикум 3\Debug\Практикум 3.exe
