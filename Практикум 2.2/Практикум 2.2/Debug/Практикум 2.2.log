@@ -1,0 +1,12 @@
+﻿  task1.c
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task1.c(10): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task1.c(9): warning C4101: f: неиспользованная локальная переменная
+  task2.c
+  task3msin.c
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task3msin.c(17): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task3msin.c(24): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task3msin.c(21): warning C4477: "scanf_s": в строке форматирования "%lf" требуется аргумент типа "double *", но вариативный аргумент "1" имеет тип "const double *"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task3msin.c(21): warning C4477: "scanf_s": в строке форматирования "%lf" требуется аргумент типа "double *", но вариативный аргумент "2" имеет тип "const double *"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 2.2\практикум 2.2\task3msin.c(23): warning C4778: "printf": незавершенная строка форматирования "% "
+  Создание кода...
+  Практикум 2.2.vcxproj -> C:\Users\LonelyOwlet\Desktop\6 семестр\Практикум 2.2\Debug\Практикум 2.2.exe
