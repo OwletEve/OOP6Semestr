@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\lonelyowlet\desktop\6 семестр\практикум 7\практикум 7\main.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class QuArr<double> const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABV?$QuArr@N@@@Z) в функции _main
+C:\Users\LonelyOwlet\Desktop\6 семестр\Практикум 7\Debug\Практикум 7.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
