@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\lonelyowlet\desktop\6 семестр\практикум 8\практикум 8\undirlist.h(125): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 8\практикум 8\main.cpp(8): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
