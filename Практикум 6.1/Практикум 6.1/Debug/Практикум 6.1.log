@@ -1,0 +1,13 @@
+﻿  QuMain.cpp
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(33): error C2760: синтаксическая ошибка: ожидался токен "<Нет данных>", а не "<Нет данных>"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(110): warning C4346: Pop: зависимое имя не является типом
+  c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(110): note: укажите префикс "typename" для задания типа
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(110): error C2061: синтаксическая ошибка: идентификатор "Pop"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(111): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(111): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(123): warning C4346: Peek: зависимое имя не является типом
+  c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(123): note: укажите префикс "typename" для задания типа
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(123): error C2061: синтаксическая ошибка: идентификатор "Peek"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(124): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\queuetemp.h(124): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\users\lonelyowlet\desktop\6 семестр\практикум 6.1\практикум 6.1\qumain.cpp(9): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
